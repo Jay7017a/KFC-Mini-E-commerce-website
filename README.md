@@ -21,3 +21,5 @@ The project focuses on UI design, responsiveness, and component-based architectu
 - Fast development using Vite
 
 ---
+<img width="1920" height="1080" alt="Screenshot 2026-02-03 131134" src="https://github.com/user-attachments/assets/6afdf53b-0076-4632-b919-ad93b9423cba" />
+
